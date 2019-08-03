@@ -1,0 +1,19 @@
+# mac hidden files
+.DS_Store
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# for dependency management tool
+go.sum
+
+# for Visial Stadio Code
+.vscode/*
+.history:
